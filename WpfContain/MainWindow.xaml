@@ -1,0 +1,61 @@
+﻿<Window x:Class="WpfContain.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfContain"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+	<!--<StackPanel Orientation="Horizontal">
+		<Button Width="40"></Button>
+		<Button Width="40"></Button>
+		<Button Width="40"></Button>
+		<Button Width="40"></Button>
+	</StackPanel>-->
+	<!--<Canvas>
+		<Rectangle Width="100" Height="120" Fill="Black" Panel.ZIndex="0" Canvas.Left="184" Canvas.Top="64"></Rectangle>
+		<Ellipse Width="100" Height="80" Fill="Red" Panel.ZIndex="2" Canvas.Left="267" Canvas.Top="92"/>
+		<Rectangle Width="100" Height="120" Fill="Firebrick" Panel.ZIndex="1" Canvas.Left="230" Canvas.Top="152"></Rectangle>
+	</Canvas>-->
+	<!--<DockPanel LastChildFill="True">
+		<Button DockPanel.Dock="Bottom" Content="Кнопка1" Background="Red"/>
+		<Button DockPanel.Dock="Left" Content="Кнопка2" Background="Red"/>
+		<Button DockPanel.Dock="Bottom" Content="Кнопка3" Background="Red"/>
+		<Button DockPanel.Dock="Right" Content="Кнопка4" Background="Red"/>
+		<Button DockPanel.Dock="Top" Content="Кнопка5" Background="Red"/>
+		<Button Content="Кнопка6" Background="Green"/>
+	</DockPanel>-->
+	<!--<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="20*"/>
+			<ColumnDefinition Width="20*"/>
+			<ColumnDefinition Width="20*"/>
+			<ColumnDefinition Width="20*"/>
+			<ColumnDefinition Width="20*"/>
+		</Grid.ColumnDefinitions>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="20*"/>
+			<RowDefinition Height="20*"/>
+			<RowDefinition Height="20*"/>
+		</Grid.RowDefinitions>
+		<Button Content="Button" Grid.Column="1" Grid.Row="1"/>
+		<Button Content="Button" Grid.Column="2" Grid.Row="0"/>
+	</Grid>-->
+	<DockPanel LastChildFill="False" Background="Gray">
+		<StackPanel DockPanel.Dock="Top" Height="40" Orientation="Horizontal" Background="LightCyan">
+		</StackPanel>
+		
+		<DockPanel DockPanel.Dock="Bottom" Height="30" LastChildFill="False" Background="Bisque">
+		</DockPanel>
+
+		<StackPanel DockPanel.Dock="Left" Orientation="Vertical" Width="60" Background="AliceBlue">
+		</StackPanel>
+
+		<Grid DockPanel.Dock="Right" Width="100" Background="Beige">
+			<Grid.RowDefinitions>
+				<RowDefinition Height="20*"/>
+				<RowDefinition Height="20*"/>
+			</Grid.RowDefinitions>
+		</Grid>
+	</DockPanel>
+</Window>

@@ -1,0 +1,14 @@
+c:\users\павлове\documents\visual studio 2017\Projects\WpfContain\WpfContain\bin\Debug\WpfContain.exe.config
+c:\users\павлове\documents\visual studio 2017\Projects\WpfContain\WpfContain\bin\Debug\WpfContain.exe
+c:\users\павлове\documents\visual studio 2017\Projects\WpfContain\WpfContain\bin\Debug\WpfContain.pdb
+c:\users\павлове\documents\visual studio 2017\Projects\WpfContain\WpfContain\obj\Debug\WpfContain.csprojResolveAssemblyReference.cache
+c:\users\павлове\documents\visual studio 2017\Projects\WpfContain\WpfContain\obj\Debug\MainWindow.g.cs
+c:\users\павлове\documents\visual studio 2017\Projects\WpfContain\WpfContain\obj\Debug\App.g.cs
+c:\users\павлове\documents\visual studio 2017\Projects\WpfContain\WpfContain\obj\Debug\WpfContain_MarkupCompile.cache
+c:\users\павлове\documents\visual studio 2017\Projects\WpfContain\WpfContain\obj\Debug\WpfContain_MarkupCompile.lref
+c:\users\павлове\documents\visual studio 2017\Projects\WpfContain\WpfContain\obj\Debug\MainWindow.baml
+c:\users\павлове\documents\visual studio 2017\Projects\WpfContain\WpfContain\obj\Debug\WpfContain.g.resources
+c:\users\павлове\documents\visual studio 2017\Projects\WpfContain\WpfContain\obj\Debug\WpfContain.Properties.Resources.resources
+c:\users\павлове\documents\visual studio 2017\Projects\WpfContain\WpfContain\obj\Debug\WpfContain.csproj.GenerateResource.Cache
+c:\users\павлове\documents\visual studio 2017\Projects\WpfContain\WpfContain\obj\Debug\WpfContain.exe
+c:\users\павлове\documents\visual studio 2017\Projects\WpfContain\WpfContain\obj\Debug\WpfContain.pdb
